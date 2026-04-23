@@ -37,9 +37,16 @@ Full standards: engineering principles, data engineering principles, and git/rep
 
 ## Selected engagements
 
-- **Superior Court of California, County of San Francisco** — Juvenile data warehouse (RFQ #38-21-004), Magic xpa → modern web migration, Power BI governance platform, PDF accessibility remediation for ADA compliance
-- **Intel Corporation** — Prior leadership in site operations, analytics, and digital transformation
-- **3Cloud Solutions, Designmind** — Prior cloud and analytics delivery
+| Engagement | Scope |
+| --- | --- |
+| **Superior Court of California** — San Francisco County | Juvenile data warehouse (RFQ #38-21-004), legacy Magic xpa → modern web migration, Power BI governance, ADA / WCAG 2.1 AA compliance |
+| **LinkedIn** — Enterprise GenAI Assistant | GenAI assistant for workplace operations |
+| **LinkedIn** — GenAI Workplace Insights (v2) | GenAI-powered insights platform for internal workplace data |
+| **Elile** — Deep-Research Platform | Multi-agent deep-research platform for enterprise knowledge retrieval |
+| **GL-Solutions.AI** — Text2SQL | Natural-language-to-SQL product for enterprise databases |
+| **GL-Solutions.AI** — Engineering Framework | Cross-client standards for AI-assisted development, git workflow, code review |
+| **Intel Corporation** *(prior)* | Site operations leadership, analytics, digital transformation |
+| **3Cloud Solutions, Designmind** *(prior)* | Cloud and analytics delivery |
 
 ---
 
