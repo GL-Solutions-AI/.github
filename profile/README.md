@@ -20,7 +20,7 @@
 <p align="center">
   <b>Trusted by:</b> <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · <b>Telcel (América Móvil)</b> · <b>Telefónica</b> · <b>Televisa</b> · <b>Walmart</b> · <b>Bristol-Myers Squibb</b> · <b>Sanofi</b> · <b>Banco Azteca</b> · <b>BANXICO</b> · <b>Progresa / Oportunidades</b> · ex-<b>Intel</b>
   <br/>
-  <sub><i>70+ clients across 16 industries · full catalog under private archive · representative names shown above</i></sub>
+  <sub><i>75+ clients across 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · full catalog under private archive</i></sub>
 </p>
 
 ---
