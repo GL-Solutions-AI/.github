@@ -1,45 +1,34 @@
-# GL-Solutions.AI
-
 <p align="center">
   <a href="https://gl-solutions.ai">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=2800&color=D4AF37&center=true&vCenter=true&width=780&height=46&lines=AI+you+can+audit+%C2%B7+Privacy+by+design+%C2%B7+Outcomes%2C+not+deliverables;Multi-agent+systems+%C2%B7+LLM+apps+%C2%B7+AI+evaluation+%C2%B7+AI+governance;Compliance-native%3A+CJIS+%C2%B7+NIST+800-53+%C2%B7+IRS+1075+%C2%B7+GDPR;Bilingual+delivery+%C2%B7+US+%2B+LATAM+%C2%B7+ex-Intel+%C2%B7+ex-Cognizant" alt="AI you can audit · Privacy by design · Outcomes, not deliverables" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GL-Solutions-AI/.github/main/profile/assets/gl-logo-color-dark.png">
+      <img src="https://raw.githubusercontent.com/GL-Solutions-AI/.github/main/profile/assets/gl-logo-color-light.png" alt="GL-Solutions.AI" width="160" height="160">
+    </picture>
   </a>
 </p>
 
-<h3 align="center">
-  <b>AI · Cloud · Data</b> — built with <b>explainability</b>, <b>auditability</b>, and <b>privacy</b> as first-class requirements.
-</h3>
+<h1 align="center">GL-Solutions.AI</h1>
+
+<h3 align="center">Auditable AI for U.S. public sector and Fortune-50 enterprise.</h3>
 
 <p align="center">
-  <i>For U.S. public sector and Fortune-50 enterprise.</i>
-</p>
-
-<p align="center">
-  <b>$millions saved</b>  ·  <b>+20% sales lift</b>  ·  <b>4,000+ users adopted</b>  ·  <b>75+ clients</b>  ·  <b>16 industries</b>  ·  <b>15+ AI / agent systems shipped</b>
+  We design, build, and govern multi-agent AI systems with <b>explainability</b>, <b>auditability</b>, and <b>privacy</b> as first-class requirements.
 </p>
 
 <p align="center">
   <a href="mailto:info@gl-solutions.ai?subject=GL-Solutions.AI%20Engagement%20Inquiry&body=Hi%20Gonzalo%2C%0A%0AI%27d%20like%20to%20explore%20a%20Discovery%20engagement.%20Here%27s%20a%20bit%20about%20what%20we%27re%20working%20on%3A%0A%0A">
-    <img src="https://img.shields.io/badge/▶_Start_a_Discovery-D4AF37?style=for-the-badge&labelColor=0A0A0A" alt="Start a Discovery" height="38"/>
+    <img src="https://img.shields.io/badge/%E2%96%B6%20Start%20a%20Discovery-D4AF37?style=for-the-badge" alt="Start a Discovery" height="36"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://gl-solutions.ai">
-    <img src="https://img.shields.io/badge/gl--solutions.ai-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" alt="Website" height="38"/>
+    <img src="https://img.shields.io/badge/Visit%20gl--solutions.ai-D4AF37?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" height="36"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="mailto:info@gl-solutions.ai"><img alt="Email" src="https://img.shields.io/badge/info%40gl--solutions.ai-0A0A0A?style=flat-square&logo=microsoftoutlook&logoColor=D4AF37"/></a>
-  <a href="https://www.linkedin.com/in/linaresrivas/"><img alt="Founder on LinkedIn" src="https://img.shields.io/badge/Founder-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/linaresrivas"><img alt="Founder on GitHub" src="https://img.shields.io/badge/Founder%20on%20GitHub-24292e?style=flat-square&logo=github&logoColor=D4AF37"/></a>
-</p>
-
-<p align="center">
-  <sub><b>TRUSTED BY</b></sub>
-  <br/>
-  <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · <b>Telcel (América Móvil)</b> · <b>Telefónica</b> · <b>Televisa</b> · <b>Walmart</b> · <b>Bristol-Myers Squibb</b> · <b>Sanofi</b> · <b>Banco Azteca</b> · <b>BANXICO</b> · <b>Progresa / Oportunidades</b> · ex-<b>Intel</b>
-  <br/>
-  <sub><i>75+ clients across 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · full catalog under private archive</i></sub>
+  <a href="mailto:info@gl-solutions.ai"><img alt="Email" src="https://img.shields.io/badge/info%40gl--solutions.ai-D4AF37?style=flat-square&logo=microsoftoutlook&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/linaresrivas/"><img alt="Founder on LinkedIn" src="https://img.shields.io/badge/Founder%20on%20LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/linaresrivas"><img alt="Founder on GitHub" src="https://img.shields.io/badge/Founder%20on%20GitHub-6E40C9?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 ---
@@ -50,7 +39,7 @@
 
 |  |  |
 |---|---|
-| **Outcome-first** | Scope to verifiable business outcomes — *$millions saved, +20% sales lift, 4,000+ user adoption*. Not "deliverables." |
+| **Outcome-first** | We scope to verifiable business outcomes — not "deliverables." |
 | **Compliance-native** | CJIS · NIST 800-53 · IRS 1075 · GDPR · CCPA · ADA / WCAG 2.1 AA · Section 508 · ISO 32000. Built in, not bolted on. |
 | **AI you can audit** | Multi-agent systems with provenance, evaluation pipelines, and decision trails. RAGAS · Langfuse · LangSmith · Azure AI Evaluation SDK. |
 | **Public-sector ready** | Delivered for U.S. state courts and federal Mexican agencies; understands procurement, FOIA, security review, accessibility audit. |
@@ -83,13 +72,22 @@ Power BI + TIBCO Spotfire governance · health scoring · refresh reliability ·
 
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Selected+outcomes&duration=1&pause=99999999&repeat=false" alt="Selected outcomes" />
-</h2>
+<details>
+<summary><b>Selected outcomes — $millions saved · +20% sales lift · 4,000+ users adopted · 75+ clients across 16 industries</b></summary>
+
+<br/>
+
+<p align="center">
+  <sub><b>TRUSTED BY</b></sub>
+  <br/>
+  <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · <b>Telcel (América Móvil)</b> · <b>Telefónica</b> · <b>Televisa</b> · <b>Walmart</b> · <b>Bristol-Myers Squibb</b> · <b>Sanofi</b> · <b>Banco Azteca</b> · <b>BANXICO</b> · <b>Progresa / Oportunidades</b> · ex-<b>Intel</b>
+  <br/>
+  <sub><i>75+ clients across 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · full catalog under private archive</i></sub>
+</p>
 
 Real engagements, real numbers. Most current work is under NDA — what we can name:
 
-| ![Client](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=120&height=28&lines=Client&duration=1&pause=99999999&repeat=false) | ![What we delivered](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=200&height=28&lines=What+we+delivered&duration=1&pause=99999999&repeat=false) | ![Measurable outcome](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=210&height=28&lines=Measurable+outcome&duration=1&pause=99999999&repeat=false) |
+| Client | What we delivered | Measurable outcome |
 |---|---|---|
 | **U.S. Department of State** *(active)* | Invited expert speaker — AI & Digital Transformation | Worldwide reach via U.S. embassies and consulates |
 | **Superior Court of California — San Francisco** *(active)* | Court modernization: juvenile case data warehouse · legacy app modernization · Power BI governance · PDF accessibility remediation | Production-grade delivery to PDF/UA-1 + WCAG 2.2 AA accessibility standards |
@@ -106,15 +104,18 @@ Real engagements, real numbers. Most current work is under NDA — what we can n
 | **Intel Corporation** *(prior)* | Enterprise Data Platform · 80+ analytics solutions · Big Data · COE leadership | 4,000+ users · 14+ Intel awards including *"Best IT Site Manager Ever"* |
 | **AccessAI** *(501(c)(3) nonprofit)* | Board governance · AI awareness & training programs | AI literacy for underserved communities |
 
+</details>
+
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Engineering+principles&duration=1&pause=99999999&repeat=false" alt="Engineering principles" />
-</h2>
+<details>
+<summary><b>Engineering principles</b></summary>
+
+<br/>
 
 Every engagement is built on the same foundations:
 
-| ![Principle](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=130&height=28&lines=Principle&duration=1&pause=99999999&repeat=false) | ![What it means in practice](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=270&height=28&lines=What+it+means+in+practice&duration=1&pause=99999999&repeat=false) |
+| Principle | What it means in practice |
 |---|---|
 | **Explainability** | Every transformation, decision, and process is documented and traceable |
 | **Auditability** | Full lineage from source to output; every change attributable |
@@ -126,15 +127,18 @@ Every engagement is built on the same foundations:
 
 Full standards (engineering, data engineering, git / repo conventions) are published with every engagement.
 
+</details>
+
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=How+we+engage&duration=1&pause=99999999&repeat=false" alt="How we engage" />
-</h2>
+<details>
+<summary><b>How we engage</b></summary>
+
+<br/>
 
 Clear, predictable stages. You can stop after any one.
 
-| ![Stage](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=90&height=28&lines=Stage&duration=1&pause=99999999&repeat=false) | ![Duration](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=110&height=28&lines=Duration&duration=1&pause=99999999&repeat=false) | ![What you get](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=160&height=28&lines=What+you+get&duration=1&pause=99999999&repeat=false) | ![When to choose](https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=16&color=D4AF37&center=true&vCenter=true&width=170&height=28&lines=When+to+choose&duration=1&pause=99999999&repeat=false) |
+| Stage | Duration | What you get | When to choose |
 |---|---|---|---|
 | **Discovery** | 1–2 weeks | Current-state audit · opportunity map · ROI estimate · recommended roadmap · risks register | *"We have a problem but aren't sure of the shape"* |
 | **Pilot** | 4–8 weeks | Working proof-of-value · evaluation suite · security & compliance review · go/no-go decision | *"We need to prove the approach before committing"* |
@@ -143,13 +147,16 @@ Clear, predictable stages. You can stop after any one.
 
 Typical engagement: **Discovery → Pilot → Build → Run**, with hard go/no-go gates between each.
 
+</details>
+
 ---
 
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Founder&duration=1&pause=99999999&repeat=false" alt="Founder" />
-</h2>
+<details>
+<summary><b>Founder</b></summary>
 
-**Gonzalo L. Linares-Rivas** — Microsoft Certified Azure AI Engineer · Google Cloud Digital Leader · Google AI Leadership. Delivered AI, cloud, and data systems across government, oil & gas, retail, pharmaceuticals, telecommunications, and Big Tech. **Bilingual English / Spanish.** Based in Cupertino, California.
+<br/>
+
+**Gonzalo L. Linares-Rivas** — Microsoft Certified Azure AI Engineer · Google Cloud Digital Leader · Google AI Leadership. Delivered AI, cloud, and data systems across government, oil & gas, retail, pharmaceuticals, telecommunications, and Big Tech. **Bilingual English / Spanish.**
 
 **Current:**
 
@@ -164,18 +171,16 @@ Typical engagement: **Discovery → Pilot → Build → Run**, with hard go/no-g
 
 **Links:** [gl-solutions.ai](https://gl-solutions.ai) · [linkedin.com/in/linaresrivas](https://www.linkedin.com/in/linaresrivas/) · [github.com/linaresrivas](https://github.com/linaresrivas)
 
+</details>
+
 ---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Contact&duration=1&pause=99999999&repeat=false" alt="Contact" />
 </h2>
 
-For engagements, partnerships, or technical inquiries —
-
-**info@gl-solutions.ai** · **[gl-solutions.ai](https://gl-solutions.ai)**
-
----
-
 <p align="center">
-  <sub><i>Headquartered in Cupertino, California · Operating across the United States and LATAM</i></sub>
+  For engagements, partnerships, or technical inquiries —
+  <br/>
+  <b>info@gl-solutions.ai</b> · <b><a href="https://gl-solutions.ai">gl-solutions.ai</a></b>
 </p>
