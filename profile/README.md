@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b>Trusted by:</b> <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>Superior Court of California</b> · Elile · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · ex-<b>Intel</b>
+  <b>Trusted by:</b> <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · ex-<b>Intel</b>
 </p>
 
 ---
@@ -69,7 +69,8 @@ Real engagements, real numbers. Most current work is under NDA — what we can n
 | **LinkedIn** *(via 3Cloud / Cognizant)* | Enterprise GenAI Assistant · GenAI Workplace Insights v2 | Production GenAI for top-10 tech company workplace ops |
 | **3Cloud / Cognizant** | AI Privacy & GDPR App for Fortune-50 customers | PII detection + data-privacy management at enterprise scale |
 | **Elile** | Multi-agent deep-research OSINT platform (LangGraph) | Production multi-agent system · built-in evals · cost-budgeted |
-| **PEMEX** *(oil & gas)* | Fraud-detection analytics platform | **Saved $millions** · triggered new employee policies |
+| **ING** *(financial services)* | Fraud-detection analytics platform | **Saved $millions** · triggered new employee policies |
+| **PEMEX** *(oil & gas — Natural Gas Division)* | 20-TB analytics platform · risk · prediction · labor performance | 400+ users · multi-domain decision support |
 | **Procter & Gamble** | POS analytics + market-basket discovery | **+20% combo-sales** lift |
 | **Liconsa** *(government)* | Financial / distribution platform with data mining | **$1M cost-savings** identified in first session |
 | **Intel Corporation** *(prior)* | Enterprise Data Platform · 80+ analytics solutions · Big Data · COE leadership | 4,000+ users · 14+ Intel awards including *"Best IT Site Manager Ever"* |
