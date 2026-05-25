@@ -70,7 +70,7 @@ Power BI + TIBCO Spotfire governance · health scoring · refresh reliability ·
 
 Real engagements, real numbers. Most current work is under NDA — what we can name:
 
-| Client | What we delivered | Measurable outcome |
+| <font color="#D4AF37">**Client**</font> | <font color="#D4AF37">**What we delivered**</font> | <font color="#D4AF37">**Measurable outcome**</font> |
 |---|---|---|
 | **U.S. Department of State** *(active)* | Invited expert speaker — AI & Digital Transformation | Worldwide reach via U.S. embassies and consulates |
 | **Superior Court of California — San Francisco** *(active)* | Court modernization: juvenile case data warehouse · legacy app modernization · Power BI governance · PDF accessibility remediation | Production-grade delivery to PDF/UA-1 + WCAG 2.2 AA accessibility standards |
@@ -95,7 +95,7 @@ Real engagements, real numbers. Most current work is under NDA — what we can n
 
 Every engagement is built on the same foundations:
 
-| Principle | What it means in practice |
+| <font color="#D4AF37">**Principle**</font> | <font color="#D4AF37">**What it means in practice**</font> |
 |---|---|
 | **Explainability** | Every transformation, decision, and process is documented and traceable |
 | **Auditability** | Full lineage from source to output; every change attributable |
@@ -115,7 +115,7 @@ Full standards (engineering, data engineering, git / repo conventions) are publi
 
 Clear, predictable stages. You can stop after any one.
 
-| Stage | Duration | What you get | When to choose |
+| <font color="#D4AF37">**Stage**</font> | <font color="#D4AF37">**Duration**</font> | <font color="#D4AF37">**What you get**</font> | <font color="#D4AF37">**When to choose**</font> |
 |---|---|---|---|
 | **Discovery** | 1–2 weeks | Current-state audit · opportunity map · ROI estimate · recommended roadmap · risks register | *"We have a problem but aren't sure of the shape"* |
 | **Pilot** | 4–8 weeks | Working proof-of-value · evaluation suite · security & compliance review · go/no-go decision | *"We need to prove the approach before committing"* |
