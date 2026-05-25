@@ -6,19 +6,38 @@
   </a>
 </p>
 
+<h3 align="center">
+  <b>AI · Cloud · Data</b> — built with <b>explainability</b>, <b>auditability</b>, and <b>privacy</b> as first-class requirements.
+</h3>
+
 <p align="center">
-  <sub>AI · Cloud · Data — built with <b>explainability</b>, <b>auditability</b>, and <b>privacy</b> as first-class requirements. For government and enterprise.</sub>
+  <i>For U.S. public sector and Fortune-50 enterprise.</i>
 </p>
 
 <p align="center">
-  <a href="https://gl-solutions.ai"><img alt="Website" src="https://img.shields.io/badge/gl--solutions.ai-D4AF37?style=flat-square&logo=google-chrome&logoColor=0A0A0A&labelColor=0A0A0A"/></a>
+  <b>$millions saved</b>  ·  <b>+20% sales lift</b>  ·  <b>4,000+ users adopted</b>  ·  <b>75+ clients</b>  ·  <b>16 industries</b>  ·  <b>15+ AI / agent systems shipped</b>
+</p>
+
+<p align="center">
+  <a href="mailto:info@gl-solutions.ai?subject=GL-Solutions.AI%20Engagement%20Inquiry&body=Hi%20Gonzalo%2C%0A%0AI%27d%20like%20to%20explore%20a%20Discovery%20engagement.%20Here%27s%20a%20bit%20about%20what%20we%27re%20working%20on%3A%0A%0A">
+    <img src="https://img.shields.io/badge/▶_Start_a_Discovery-D4AF37?style=for-the-badge&labelColor=0A0A0A" alt="Start a Discovery" height="38"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gl-solutions.ai">
+    <img src="https://img.shields.io/badge/gl--solutions.ai-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=D4AF37" alt="Website" height="38"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="mailto:info@gl-solutions.ai"><img alt="Email" src="https://img.shields.io/badge/info%40gl--solutions.ai-0A0A0A?style=flat-square&logo=microsoftoutlook&logoColor=D4AF37"/></a>
   <a href="https://www.linkedin.com/in/linaresrivas/"><img alt="Founder on LinkedIn" src="https://img.shields.io/badge/Founder-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/linaresrivas"><img alt="Founder on GitHub" src="https://img.shields.io/badge/Founder%20on%20GitHub-24292e?style=flat-square&logo=github&logoColor=D4AF37"/></a>
 </p>
 
 <p align="center">
-  <b>Trusted by:</b> <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · <b>Telcel (América Móvil)</b> · <b>Telefónica</b> · <b>Televisa</b> · <b>Walmart</b> · <b>Bristol-Myers Squibb</b> · <b>Sanofi</b> · <b>Banco Azteca</b> · <b>BANXICO</b> · <b>Progresa / Oportunidades</b> · ex-<b>Intel</b>
+  <sub><b>TRUSTED BY</b></sub>
+  <br/>
+  <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · <b>Telcel (América Móvil)</b> · <b>Telefónica</b> · <b>Televisa</b> · <b>Walmart</b> · <b>Bristol-Myers Squibb</b> · <b>Sanofi</b> · <b>Banco Azteca</b> · <b>BANXICO</b> · <b>Progresa / Oportunidades</b> · ex-<b>Intel</b>
   <br/>
   <sub><i>75+ clients across 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · full catalog under private archive</i></sub>
 </p>
