@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <b>Trusted by:</b> <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · ex-<b>Intel</b>
+  <b>Trusted by:</b> <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · ex-<b>Intel</b>
 </p>
 
 ---
@@ -65,10 +65,13 @@ Real engagements, real numbers. Most current work is under NDA — what we can n
 | Client | What we delivered | Measurable outcome |
 |---|---|---|
 | **U.S. Department of State** *(active)* | Invited expert speaker — AI & Digital Transformation | Worldwide reach via U.S. embassies and consulates |
-| **Superior Court of California — San Francisco** *(active)* | Juvenile data warehouse · Magic xpa → modern web · Power BI governance | ADA / WCAG 2.1 AA compliance achieved · sustained production system |
+| **Superior Court of California — San Francisco** *(active)* | Court modernization: juvenile case data warehouse · legacy app modernization · Power BI governance · PDF accessibility remediation | Production-grade delivery to PDF/UA-1 + WCAG 2.2 AA accessibility standards |
 | **LinkedIn** *(via 3Cloud / Cognizant)* | Enterprise GenAI Assistant · GenAI Workplace Insights v2 | Production GenAI for top-10 tech company workplace ops |
 | **3Cloud / Cognizant** | AI Privacy & GDPR App for Fortune-50 customers | PII detection + data-privacy management at enterprise scale |
-| **Elile** | Multi-agent deep-research OSINT platform (LangGraph) | Production multi-agent system · built-in evals · cost-budgeted |
+| **TIBCO Spotfire** | Contributed to internal Copilot AI evaluation framework | Azure AI Evaluation SDK · GPT-4o / GPT-4.1-mini / GPT-5-mini / Phi-4 · LangSmith · production eval pipelines |
+| **Geonosys** — *Identity Resolution (ID1)* | Enterprise identity-resolution agent: query understanding → intent routing → data fusion → identity resolution → report generation | LangGraph multi-agent workflow · multi-LLM (Anthropic + Google + Mistral) · FastAPI + Django + Docker · 7 test suites |
+| **Geonosys** — *Adaptive Analytics Platform* | AI-driven self-evolving analytics platform: zero-code model generation, automatic field discovery, ~3-min deploy | **21 model types** delivered · **94% completion in 30-day sprint** · Neo4j + LangGraph · multi-LLM (Ollama / OpenAI / Anthropic) |
+| **Elile** | Multi-agent deep-research OSINT platform (LangGraph) | LangGraph Supervisor + Search + Analysis + Verification + Risk agents · Claude + GPT-4o + Gemini · built-in evals · cost-budgeted · 4 stories complete |
 | **ING** *(financial services)* | Fraud-detection analytics platform | **Saved $millions** · triggered new employee policies |
 | **PEMEX** *(oil & gas — Natural Gas Division)* | 20-TB analytics platform · risk · prediction · labor performance | 400+ users · multi-domain decision support |
 | **Procter & Gamble** | POS analytics + market-basket discovery | **+20% combo-sales** lift |
