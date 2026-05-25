@@ -25,7 +25,9 @@
 
 ---
 
-## Why GL-Solutions.AI
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Why+GL-Solutions.AI&duration=1&pause=99999999&repeat=false" alt="Why GL-Solutions.AI" />
+</h2>
 
 |  |  |
 |---|---|
@@ -38,7 +40,9 @@
 
 ---
 
-## What we deliver
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=What+we+deliver&duration=1&pause=99999999&repeat=false" alt="What we deliver" />
+</h2>
 
 ### AI & Agentic Systems
 Multi-agent platforms · LLM applications · MCP tool ecosystems · Multi-Agent RAG with cognitive memory · AI Eval Frameworks. Anthropic + OpenAI + Azure OpenAI + open-source.
@@ -60,7 +64,9 @@ Power BI + TIBCO Spotfire governance · health scoring · refresh reliability ·
 
 ---
 
-## Selected outcomes
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Selected+outcomes&duration=1&pause=99999999&repeat=false" alt="Selected outcomes" />
+</h2>
 
 Real engagements, real numbers. Most current work is under NDA — what we can name:
 
@@ -83,7 +89,9 @@ Real engagements, real numbers. Most current work is under NDA — what we can n
 
 ---
 
-## Engineering principles
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Engineering+principles&duration=1&pause=99999999&repeat=false" alt="Engineering principles" />
+</h2>
 
 Every engagement is built on the same foundations:
 
@@ -101,7 +109,9 @@ Full standards (engineering, data engineering, git / repo conventions) are publi
 
 ---
 
-## How we engage
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=How+we+engage&duration=1&pause=99999999&repeat=false" alt="How we engage" />
+</h2>
 
 Clear, predictable stages. You can stop after any one.
 
@@ -116,7 +126,9 @@ Typical engagement: **Discovery → Pilot → Build → Run**, with hard go/no-g
 
 ---
 
-## Founder
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Founder&duration=1&pause=99999999&repeat=false" alt="Founder" />
+</h2>
 
 **Gonzalo L. Linares-Rivas** — Microsoft Certified Azure AI Engineer · Google Cloud Digital Leader · Google AI Leadership. Delivered AI, cloud, and data systems across government, oil & gas, retail, pharmaceuticals, telecommunications, and Big Tech. **Bilingual English / Spanish.** Based in Cupertino, California.
 
@@ -135,7 +147,9 @@ Typical engagement: **Discovery → Pilot → Build → Run**, with hard go/no-g
 
 ---
 
-## Contact
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Contact&duration=1&pause=99999999&repeat=false" alt="Contact" />
+</h2>
 
 For engagements, partnerships, or technical inquiries —
 
