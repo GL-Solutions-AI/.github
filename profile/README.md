@@ -31,6 +31,14 @@
   <a href="https://github.com/linaresrivas"><img alt="Founder on GitHub" src="https://img.shields.io/badge/Founder%20on%20GitHub-6E40C9?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
+<p align="center">
+  <sub><b>TRUSTED BY</b></sub>
+  <br/>
+  <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · <b>Telcel (América Móvil)</b> · <b>Telefónica</b> · <b>Televisa</b> · <b>Walmart</b> · <b>Bristol-Myers Squibb</b> · <b>Sanofi</b> · <b>Banco Azteca</b> · <b>BANXICO</b> · <b>Progresa / Oportunidades</b> · ex-<b>Intel</b>
+  <br/>
+  <sub><i>75+ clients across 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · full catalog under private archive</i></sub>
+</p>
+
 ---
 
 <h2 align="center">
@@ -43,7 +51,7 @@
 | **Compliance-native** | CJIS · NIST 800-53 · IRS 1075 · GDPR · CCPA · ADA / WCAG 2.1 AA · Section 508 · ISO 32000. Built in, not bolted on. |
 | **AI you can audit** | Multi-agent systems with provenance, evaluation pipelines, and decision trails. RAGAS · Langfuse · LangSmith · Azure AI Evaluation SDK. |
 | **Public-sector ready** | Delivered for U.S. state courts and federal Mexican agencies; understands procurement, FOIA, security review, accessibility audit. |
-| **Bilingual / Bicultural** | English + Spanish · US + LATAM delivery · cross-border data handling. |
+| **Cross-border delivery** | U.S. + LATAM engagements, run in English or Spanish · cross-border data handling. |
 | **Sustainable handoff** | Clients run the system after we leave. Runbooks, training, self-healing — not vendor lock-in. |
 
 ---
@@ -76,14 +84,6 @@ Power BI + TIBCO Spotfire governance · health scoring · refresh reliability ·
 <summary><b>Selected outcomes — $millions saved · +20% sales lift · 4,000+ users adopted · 75+ clients across 16 industries</b></summary>
 
 <br/>
-
-<p align="center">
-  <sub><b>TRUSTED BY</b></sub>
-  <br/>
-  <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · <b>Telcel (América Móvil)</b> · <b>Telefónica</b> · <b>Televisa</b> · <b>Walmart</b> · <b>Bristol-Myers Squibb</b> · <b>Sanofi</b> · <b>Banco Azteca</b> · <b>BANXICO</b> · <b>Progresa / Oportunidades</b> · ex-<b>Intel</b>
-  <br/>
-  <sub><i>75+ clients across 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · full catalog under private archive</i></sub>
-</p>
 
 Real engagements, real numbers. Most current work is under NDA — what we can name:
 
