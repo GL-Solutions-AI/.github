@@ -14,7 +14,7 @@ Do not open a public issue for a suspected vulnerability.
 ## What to expect
 
 - Acknowledgement within three business days.
-- An assessment, and a remediation plan for confirmed issues.
+- An assessment and a remediation plan for confirmed issues.
 - Credit in release notes if you want it — say so in your report.
 
 ## Scope
