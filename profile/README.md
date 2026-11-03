@@ -36,7 +36,7 @@
   <br/>
   <b>U.S. Department of State</b> · <b>LinkedIn</b> · <b>Cognizant (3Cloud)</b> · <b>TIBCO Spotfire</b> · <b>Geonosys</b> · <b>Superior Court of California</b> · Elile · <b>ING</b> · <b>Procter &amp; Gamble</b> · <b>BP (British Petroleum)</b> · <b>PEMEX</b> · <b>Telcel (América Móvil)</b> · <b>Telefónica</b> · <b>Televisa</b> · <b>Walmart</b> · <b>Bristol-Myers Squibb</b> · <b>Sanofi</b> · <b>Banco Azteca</b> · <b>BANXICO</b> · <b>Progresa / Oportunidades</b> · ex-<b>Intel</b>
   <br/>
-  <sub><i>75+ clients across 16 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · full catalog under private archive</i></sub>
+  <sub><i>35+ years · 250 projects · 85+ clients across 17 industries · 250+ OLAP cubes &amp; analytics modules · 15+ AI / agent systems &amp; products · full catalog under private archive</i></sub>
 </p>
 
 ---
@@ -112,7 +112,7 @@ Power BI + TIBCO Spotfire governance · health scoring · refresh reliability ·
 ---
 
 <details>
-<summary><b>Selected outcomes — $millions saved · +20% sales lift · 4,000+ users adopted · 75+ clients across 16 industries</b></summary>
+<summary><b>Selected outcomes — $millions saved · +20% sales lift · 4,000+ users adopted · 250 projects for 85+ clients</b></summary>
 
 <br/>
 
@@ -129,7 +129,8 @@ Real engagements, real numbers. Most current work is under NDA — what we can n
 | **Geonosys** — *Identity Resolution (ID1)* | Enterprise identity-resolution agent: query understanding → intent routing → data fusion → identity resolution → report generation | LangGraph multi-agent workflow · multi-LLM (Anthropic + Google + Mistral) · FastAPI + Django + Docker · 7 test suites |
 | **Geonosys** — *Adaptive Analytics Platform* | AI-driven self-evolving analytics platform: zero-code model generation, automatic field discovery, ~3-min deploy | **21 model types** delivered · **94% completion in 30-day sprint** · Neo4j + LangGraph · multi-LLM (Ollama / OpenAI / Anthropic) |
 | **Elile** | Multi-agent deep-research OSINT platform (LangGraph) | LangGraph Supervisor + Search + Analysis + Verification + Risk agents · Claude + GPT-4o + Gemini · built-in evals · cost-budgeted · 4 stories complete |
-| **ING** *(financial services)* | Fraud-detection analytics platform | **Saved $millions** · triggered new employee policies |
+| **PEMEX** *(oil & gas)* | Purchase-order fraud-correlation model | **Saved $millions** · triggered new employee policies |
+| **ING** *(insurance)* | Medical-fraud detection + claims-workflow monitoring | Fraud patterns and legal cases uncovered · claim response **27 → 14 days** |
 | **PEMEX** *(oil & gas — Natural Gas Division)* | 20-TB analytics platform · risk · prediction · labor performance | 400+ users · multi-domain decision support |
 | **Procter & Gamble** | POS analytics + market-basket discovery | **+20% combo-sales** lift |
 | **Liconsa** *(government)* | Financial / distribution platform with data mining | **$1M cost-savings** identified in first session |
@@ -188,7 +189,7 @@ Typical engagement: **Discovery → Pilot → Build → Run**, with hard go/no-g
 
 <br/>
 
-**Gonzalo L. Linares-Rivas** is the engineer executives call when it absolutely must work. He has 24+ years delivering AI, cloud, and data systems across government, oil &amp; gas, retail, pharma, telecom, and Big Tech. At Intel he grew an organization **from 0 to 200+ engineers** with **98%+ on-time delivery** and **$35M+ in quantified business value**, and was named *"Best IT Site Manager Ever"*. He is still hands-on in Python, Azure, MCP, and LangGraph. Microsoft Certified Azure AI Engineer · Google Cloud Digital Leader · Google AI Leadership. **Bilingual English / Spanish.**
+**Gonzalo L. Linares-Rivas** is the engineer executives call when it absolutely must work. He has 35+ years and 250 documented projects delivering AI, cloud, and data systems across government, oil &amp; gas, retail, pharma, telecom, and Big Tech. At Intel he grew an organization **from 0 to 200+ engineers** with **98%+ on-time delivery** and **$35M+ in quantified business value**, and was named *"Best IT Site Manager Ever"*. He is still hands-on in Python, Azure, MCP, and LangGraph. Microsoft Certified Azure AI Engineer · Google Cloud Digital Leader · Google AI Leadership. **Bilingual English / Spanish.**
 
 **Current:**
 
@@ -200,7 +201,7 @@ Typical engagement: **Discovery → Pilot → Build → Run**, with hard go/no-g
 
 - **Intel Corporation** — Enterprise Data Platforms Analytics Delivery Leader · IT Site Leader (Silicon Valley HQ)
 - **3Cloud (now Cognizant)** — Senior AI Engineer, 2024–2025 (GenAI for LinkedIn, LLM evaluation for TIBCO Spotfire, GDPR/PII AI for Fortune-50 customers)
-- **Ritter Dragon** — Founding partner; 60+ BI and data-mining engagements across Latin America
+- **Ritter Dragon** — Founding partner; 80+ BI and data-mining engagements across Latin America
 
 **Links:** [gl-solutions.ai](https://gl-solutions.ai) · [linkedin.com/in/linaresrivas](https://www.linkedin.com/in/linaresrivas/) · [github.com/linaresrivas](https://github.com/linaresrivas)
 
