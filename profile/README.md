@@ -41,6 +41,24 @@
 
 ---
 
+### 🔭 Now delivering (2026)
+
+| Sector | Engagement | Why it matters |
+|---|---|---|
+| ⚖️ **State courts** | **Superior Court of California, San Francisco**: juvenile case data warehouse (Oracle → Azure medallion), Magic xpa → FastAPI + Next.js, Power BI governance, ADA/PDF-UA remediation, **APD/NorthPoint ↔ CTrack, DocuSign &amp; JUSTIS integration**, and **CTrack ↔ RevQ financial reconciliation** | Court orders get enforced and payments land in the right place. Legacy systems retire with their audit trail intact. |
+| 🧾 **Insurance** | **Evidence-cited claims AI** for a claims-management client: email intake, document filing, and AI-drafted health checks that a human approves | Every statement cites its source and guardrails are enforced in code, not left to the model. Approved versions are immutable. |
+| 📈 **Investment management** | **Agentic SAA**: ~60 cooperating agents running strategic asset allocation end-to-end, with structured debate and CIO ensemble judgment | A fiduciary can defend every recommendation to a board or regulator, with an IPS-compliant, re-runnable audit log. |
+| 🗄️ **Data modernization** | **db-superpowers**: Oracle / SQL Server / Access → Microsoft Fabric migration with checksum reconciliation and drift detection | Migrations are proven row by row, not assumed. |
+
+### 🎯 Best fit when you need…
+
+- **AI that has to pass review** by legal, compliance, audit, security, or a regulator
+- **A legacy estate modernized** (Oracle, SSAS, Magic xpa, Access) without losing lineage
+- **LLM evaluation and red-teaming** before a GenAI feature ships
+- **A senior builder-leader** who can architect, code, and stand up the team to run it
+
+---
+
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=30&color=D4AF37&center=true&vCenter=true&width=720&height=50&lines=Why+GL-Solutions.AI&duration=1&pause=99999999&repeat=false" alt="Why GL-Solutions.AI" />
 </h2>
@@ -78,6 +96,19 @@ Mainframe · Magic xpa · packaged-CMS → modern web stacks (FastAPI + Next.js)
 ### Business Intelligence
 Power BI + TIBCO Spotfire governance · health scoring · refresh reliability · DAX / SQL optimization. 200+ OLAP cubes & analytics modules delivered.
 
+### Products &amp; accelerators
+
+| Product | What it does |
+|---|---|
+| **Lucy** | Agentic operations platform: 130+ MCP tools, orchestrators plus 25 specialist agents, multi-agent RAG, private memory, Langfuse/RAGAS quality |
+| **Agentic SAA** | Multi-agent strategic asset allocation with IPS compliance and a full audit trail |
+| **db-superpowers** | Deterministic, golden-tested migration to Microsoft Fabric: schema snapshots, DDL conversion, reconciliation, drift detection |
+| **LLM Evaluator** | Scores conversations, prompts, and model runs, with scheduled audit pipelines |
+| **GDPR-DB · Text2SQL** | AI schema scanner that flags PII and writes compliance reports · natural-language access to enterprise databases |
+| **GeoMatch · PhotosPublish** | Lightroom Classic plugins from our Mac division ([lrc.gl-solutions.ai](https://lrc.gl-solutions.ai)) |
+
+<sub><i>Demos and architecture walkthroughs are available on request. Client code stays private under NDA.</i></sub>
+
 ---
 
 <details>
@@ -90,7 +121,8 @@ Real engagements, real numbers. Most current work is under NDA — what we can n
 | Client | What we delivered | Measurable outcome |
 |---|---|---|
 | **U.S. Department of State** *(active)* | Invited expert speaker — AI & Digital Transformation | Worldwide reach via U.S. embassies and consulates |
-| **Superior Court of California — San Francisco** *(active)* | Court modernization: juvenile case data warehouse · legacy app modernization · Power BI governance · PDF accessibility remediation | Production-grade delivery to PDF/UA-1 + WCAG 2.2 AA accessibility standards |
+| **Superior Court of California — San Francisco** *(active)* | Court modernization: juvenile case data warehouse · legacy app modernization · Power BI governance · PDF accessibility remediation · APD/NorthPoint ↔ CTrack/DocuSign/JUSTIS integration (pretrial grant) · CTrack ↔ RevQ financial reconciliation | Production-grade delivery to PDF/UA-1 + WCAG 2.2 AA; engagement expanded from one project to a multi-project program |
+| **Insurance claims-management client** *(active)* | Evidence-cited, human-in-the-loop claims health-check assistant | Every statement source-cited and code-verified · claim-scoped retrieval · immutable approvals · no external replies |
 | **LinkedIn** *(via 3Cloud / Cognizant)* | Enterprise GenAI Assistant · GenAI Workplace Insights v2 | Production GenAI for top-10 tech company workplace ops |
 | **3Cloud / Cognizant** | AI Privacy & GDPR App for Fortune-50 customers | PII detection + data-privacy management at enterprise scale |
 | **TIBCO Spotfire** | Contributed to internal Copilot AI evaluation framework | Azure AI Evaluation SDK · GPT-4o / GPT-4.1-mini / GPT-5-mini / Phi-4 · LangSmith · production eval pipelines |
@@ -156,7 +188,7 @@ Typical engagement: **Discovery → Pilot → Build → Run**, with hard go/no-g
 
 <br/>
 
-**Gonzalo L. Linares-Rivas** — Microsoft Certified Azure AI Engineer · Google Cloud Digital Leader · Google AI Leadership. Delivered AI, cloud, and data systems across government, oil & gas, retail, pharmaceuticals, telecommunications, and Big Tech. **Bilingual English / Spanish.**
+**Gonzalo L. Linares-Rivas** is the engineer executives call when it absolutely must work. He has 24+ years delivering AI, cloud, and data systems across government, oil &amp; gas, retail, pharma, telecom, and Big Tech. At Intel he grew an organization **from 0 to 200+ engineers** with **98%+ on-time delivery** and **$35M+ in quantified business value**, and was named *"Best IT Site Manager Ever"*. He is still hands-on in Python, Azure, MCP, and LangGraph. Microsoft Certified Azure AI Engineer · Google Cloud Digital Leader · Google AI Leadership. **Bilingual English / Spanish.**
 
 **Current:**
 
@@ -167,7 +199,8 @@ Typical engagement: **Discovery → Pilot → Build → Run**, with hard go/no-g
 **Prior:**
 
 - **Intel Corporation** — Enterprise Data Platforms Analytics Delivery Leader · IT Site Leader (Silicon Valley HQ)
-- **Cognizant (3Cloud)** — Senior AI Engineer (GenAI / Vision / LLM for Fortune-50 customers)
+- **3Cloud (now Cognizant)** — Senior AI Engineer, 2024–2025 (GenAI for LinkedIn, LLM evaluation for TIBCO Spotfire, GDPR/PII AI for Fortune-50 customers)
+- **Ritter Dragon** — Founding partner; 60+ BI and data-mining engagements across Latin America
 
 **Links:** [gl-solutions.ai](https://gl-solutions.ai) · [linkedin.com/in/linaresrivas](https://www.linkedin.com/in/linaresrivas/) · [github.com/linaresrivas](https://github.com/linaresrivas)
 
