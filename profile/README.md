@@ -105,7 +105,7 @@ Power BI + TIBCO Spotfire governance · health scoring · refresh reliability ·
 | **db-superpowers** | Deterministic, golden-tested migration to Microsoft Fabric: schema snapshots, DDL conversion, reconciliation, drift detection |
 | **LLM Evaluator** | Scores conversations, prompts, and model runs, with scheduled audit pipelines |
 | **GDPR-DB · Text2SQL** | AI schema scanner that flags PII and writes compliance reports · natural-language access to enterprise databases |
-| **GeoMatch · PhotosPublish** | Lightroom Classic plugins from our Mac division ([lrc.gl-solutions.ai](https://lrc.gl-solutions.ai)) |
+| **GeoMatch · PhotosPublish** | Commercial macOS desktop software: local-first, privacy-preserving metadata and publishing plugins for Adobe Lightroom Classic ([lrc.gl-solutions.ai](https://lrc.gl-solutions.ai)) |
 
 <sub><i>Demos and architecture walkthroughs are available on request. Client code stays private under NDA.</i></sub>
 
